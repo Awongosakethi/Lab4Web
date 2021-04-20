@@ -1,8 +1,30 @@
-# Laporan Pratikum
+# Laporan Praktikum
 
 ### Nama  : Awong Osakethi
 ### NIM   : 311910499
 ### Kelas : TI.19.A2
+
+## Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+- ``buat single layout yang berisi deskripsi, portofolio, dll.``
+2. Tambahkan Layout untuk menu Contact
+- ``yang berisi form isian: Nama, Email, Message, dll.``
+### jawab 
+### 1. Tambahkan Layout untuk menu About
+- Membuat file baru dengan nama about.html
+![Screenshot (673)](https://user-images.githubusercontent.com/56240483/115330860-0f276e80-a1bf-11eb-889a-ae3f20a47d81.png)
+- Tambahkan CSS nya
+![Screenshot (675)](https://user-images.githubusercontent.com/56240483/115330863-1189c880-a1bf-11eb-9d5c-ff861912ad75.png)
+- Tampilannya :
+![Screenshot (676)](https://user-images.githubusercontent.com/56240483/115330871-13ec2280-a1bf-11eb-880c-ebe8de78c7ba.png)
+
+### 2. Tambahkan Layout untuk menu Contact
+- Membuat file baru dengan nama kontak.html
+![Screenshot (679)](https://user-images.githubusercontent.com/56240483/115330888-1a7a9a00-a1bf-11eb-8015-4b7c1c648350.png)
+- Tambahkan CSS nya
+![Screenshot (678)](https://user-images.githubusercontent.com/56240483/115330880-164e7c80-a1bf-11eb-8b3f-0e544a78828b.png)
+- Tampilannya :
+![Screenshot (680)](https://user-images.githubusercontent.com/56240483/115330893-1d758a80-a1bf-11eb-863b-0af23bb5c034.png)
 
 ## Langkah – langkah Praktikum
 ### 1.	Langkah Pertama
