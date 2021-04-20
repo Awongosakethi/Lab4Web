@@ -1,4 +1,4 @@
-# Laporan Praktikum
+# Laporan Praktikum dan Tugas
 
 ### Nama  : Awong Osakethi
 ### NIM   : 311910499
@@ -26,6 +26,7 @@
 - Tampilannya :
 ![Screenshot (680)](https://user-images.githubusercontent.com/56240483/115330893-1d758a80-a1bf-11eb-863b-0af23bb5c034.png)
 
+# Laporan Praktikum
 ## Langkah – langkah Praktikum
 ### 1.	Langkah Pertama
 Membuat file dengan nama lab4_box.html dengan menambahkan tag `<div>` untuk membuat 
